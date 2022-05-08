@@ -33,15 +33,16 @@ public:
 		for (double i = 3; i < num / 2; i++) {
 			if (num / i == i) {
 				cout << num << "是完全平方数！\n";
+				flag = true;
 				break;
 			}
 			if (num / i < i) {
 				cout << num << "不是完全平方数！\n";
+				flag = true;
 				break;
 			}
-
 		}
-
+		if (!flag) { cout << num << "不是完全平方数！\n"; }
 	}
 
 };

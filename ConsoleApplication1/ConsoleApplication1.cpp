@@ -9,15 +9,15 @@
 
 int main()
 {
-	//CompleteSquare cs;
-	//cs.isCompelteSquare();
-	//cs.isCompelteSquare01();	
+	CompleteSquare cs;
+	cs.isCompelteSquare();
+	cs.isCompelteSquare01();	
 	
 	//SquareRoot sr;
 	//sr.show();
 
-	Student s;
-	s.show();
+	//Student s;
+	//s.show();
 
 	//Diagonal d;
 	//d.cal();
