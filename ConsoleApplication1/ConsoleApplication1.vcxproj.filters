@@ -39,5 +39,11 @@
     <ClCompile Include="InsertionSort.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="PrimeNumber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="KaiserAlgorithm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -156,6 +156,8 @@
     <ClCompile Include="ConsoleApplication1.cpp" />
     <ClCompile Include="Diagonal.cpp" />
     <ClCompile Include="InsertionSort.cpp" />
+    <ClCompile Include="KaiserAlgorithm.cpp" />
+    <ClCompile Include="PrimeNumber.cpp" />
     <ClCompile Include="SelectionSort.cpp" />
     <ClCompile Include="SquareRoot.cpp" />
     <ClCompile Include="Student.cpp" />

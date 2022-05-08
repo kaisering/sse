@@ -6,12 +6,14 @@
 #include "BubbleSorting.cpp"
 #include "SelectionSort.cpp"
 #include "InsertionSort.cpp"
+#include "PrimeNumber.cpp"
+#include "KaiserAlgorithm.cpp"
 
 int main()
 {
-	CompleteSquare cs;
-	cs.isCompelteSquare();
-	cs.isCompelteSquare01();	
+	//CompleteSquare cs;
+	//cs.isCompelteSquare();
+	//cs.isCompelteSquare01();	
 	
 	//SquareRoot sr;
 	//sr.show();
@@ -30,6 +32,13 @@ int main()
 
 	//InsertionSort is;
 	//is.sorting();
+
+	//PrimeNumber pn;
+	//pn.isPrimeNumber();
+	//pn.isPrimeNumber01();
+
+	KaiserAlgorithm ka;
+	ka.demo();
 
 	return 0;
 }
